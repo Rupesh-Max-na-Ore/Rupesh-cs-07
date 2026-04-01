@@ -27,6 +27,7 @@
     <b>Check out my resume →</b>
   </a>
 </p>
+
 ---
 
 ## ⚙️ What I Do

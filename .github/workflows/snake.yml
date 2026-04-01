@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ FIX: Checkout repository
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Generate snake (light + dark)
         uses: Platane/snk@v3
         with:
