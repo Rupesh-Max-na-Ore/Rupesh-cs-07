@@ -47,12 +47,25 @@
 
 **Agentic AI • LLM Engineering • Backend Systems**
 
+🔗 **Live Demo:** https://agentic-movie-recommender-assitant.onrender.com/
+
 * Natural language → structured backend actions via LLM function calling
 * Semantic recommendation engine over **4800+ movies**
 * Stateful backend (users, watchlists, scheduling)
 * Dockerized deployment with runtime model loading
 
 🧠 *Bridging probabilistic reasoning with deterministic systems*
+
+🔒 **Production Considerations**
+
+* Rate limiting implemented (per-IP throttling) to prevent abuse
+* Daily usage caps to control API cost and ensure reliability
+* Backend-only API key handling (secure LLM access)
+
+⚙️ *Designed as a controlled public system under real-world constraints*
+
+> ⚠️ Note: Public demo includes rate limiting and usage controls to ensure fair usage and system stability.
+
 
 ---
 
