@@ -144,7 +144,13 @@ DSA • OS • DBMS • Networks • Game Theory • OOP • LLD • HLD(Basics)
 ## 🐍 Contribution Dynamics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rupesh-Max-na-Ore/Rupesh-Max-na-Ore/main/assets/snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/Rupesh-Max-na-Ore/Rupesh-Max-na-Ore/main/assets/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/Rupesh-Max-na-Ore/Rupesh-Max-na-Ore/main/assets/snake.svg">
+    <img src="https://raw.githubusercontent.com/Rupesh-Max-na-Ore/Rupesh-Max-na-Ore/main/assets/snake.svg">
+  </picture>
 </p>
 
 ---
